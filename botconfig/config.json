@@ -1,0 +1,50 @@
+{
+    "token": "OTM0OTAzNjI4ODMyMDU5NDIy.Ye222g._i0wh9ARHxqJvlfj6DSwbv1WduA",
+    "botid": "934903628832059422",
+    "prefix": "c!",
+    "ownerIDS": [
+       "760227928843223060"
+    ],
+    "fnbr": "a6f38e28-5a9b-428d-bb5f-9bcd3842bc25",
+    "fortnitetracker": "e032828b-886d-4ed6-9aa1-0e2e725592a8",
+    "PerspectiveAPI": "AIzaSyA1Nvgv5_3pHbIQvaL81e0xDS8bTg3pv9I",
+    "memer_api": "g5SOlSadRiK",
+    "status": {
+        "text": "{prefix}help for {membercount} Cool People",
+        "text2": "{commands} commands with {prefix}help",
+        "type": "STREAMING",
+        "url": "https://twitch.tv/#"
+     },
+    "clientsettings": {
+        "nodes": [
+           {
+              "host": "lava.link",
+              "port": 80,
+               "password": "NotSaksh"
+           }
+        ]
+     },
+     "spotify": {
+        "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+        "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+     },
+      "settings": {
+          "COMMENT": "time_delay 0 === insta leave",
+          "leaveOnEmpty_Channel": {
+              "enabled": true,
+              "time_delay": 30000
+          },
+          "LeaveOnEmpty_Queue": {
+              "enabled": true,
+              "time_delay": 30000
+          },
+          "selfDeaf": true
+      },
+      "lyricssettings": {
+          "lyrics_finder": true,
+          "ksoft_api": {
+              "use_this_instead": true,
+              "api_key": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ"
+          }
+      }
+  }
